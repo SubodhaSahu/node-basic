@@ -1,0 +1,1 @@
+This is the input file. It doesn't contain any valid information. Just read it to demonstarte the FS module.
